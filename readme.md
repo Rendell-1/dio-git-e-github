@@ -3,7 +3,7 @@
 
 Repositórios para armazenar resumos sobre Git e GitHub do curso.
 
-## 📚 Resumos das Aulas
+## 📚 Resumo
 
 | Aulas | Resumos |
 |-------|---------|
