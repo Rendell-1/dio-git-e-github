@@ -1,7 +1,7 @@
 
 # Dio| Resumos Git e GitHub
 
-Repositórios para armazenar resumos sobre Git e GitHub do curso.
+Repositório para armazenar um resumo sobre Git e GitHub aprendido no  curso.
 
 ## 📚 Resumo
 
